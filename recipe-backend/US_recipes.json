@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Spaghetti Carbonara",
+    "ingredients": "Spaghetti, Eggs, Parmesan, Pancetta, Black Pepper",
+    "instructions": "Boil spaghetti. Cook pancetta. Mix eggs and cheese. Combine all.",
+    "cuisine": "Italian",
+    "category": "Main Course",
+    "rating": 4.8,
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "serves": "2",
+    "nutrients": {
+      "calories": 550
+    }
+  },
+  {
+    "title": "Chicken Biryani",
+    "ingredients": "Basmati rice, Chicken, Yogurt, Spices, Onions",
+    "instructions": "Marinate chicken. Cook rice. Layer and cook together.",
+    "cuisine": "Indian",
+    "category": "Main Course",
+    "rating": 4.7,
+    "prep_time": 20,
+    "cook_time": 40,
+    "total_time": 60,
+    "serves": "4",
+    "nutrients": {
+      "calories": 650
+    }
+  },
+  {
+    "title": "Chocolate Chip Cookies",
+    "ingredients": "Flour, Butter, Sugar, Eggs, Chocolate Chips",
+    "instructions": "Mix ingredients. Shape cookies. Bake.",
+    "cuisine": "Global",
+    "category": "Dessert",
+    "rating": 4.9,
+    "prep_time": 15,
+    "cook_time": 12,
+    "total_time": 27,
+    "serves": "24",
+    "nutrients": {
+      "calories": 200
+    }
+  },
+  {
+    "title": "Caesar Salad",
+    "ingredients": "Romaine, Croutons, Parmesan, Caesar Dressing",
+    "instructions": "Mix all ingredients together.",
+    "cuisine": "Italian",
+    "category": "Salad",
+    "rating": 4.5,
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "serves": "2",
+    "nutrients": {
+      "calories": 180
+    }
+  },
+  {
+    "title": "Pad Thai",
+    "ingredients": "Rice noodles, Tofu, Shrimp, Peanuts, Bean sprouts, Tamarind paste",
+    "instructions": "Stir-fry noodles with tofu/shrimp. Add sauce and vegetables.",
+    "cuisine": "Thai",
+    "category": "Main Course",
+    "rating": 4.6,
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "serves": "2",
+    "nutrients": {
+      "calories": 520
+    }
+  },
+  {
+    "title": "Pancakes",
+    "ingredients": "Flour, Milk, Eggs, Sugar, Baking powder",
+    "instructions": "Mix ingredients. Pour batter on skillet. Cook until golden.",
+    "cuisine": "American",
+    "category": "Breakfast",
+    "rating": 4.4,
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "serves": "4",
+    "nutrients": {
+      "calories": 300
+    }
+  }
+]
